@@ -74,6 +74,7 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
+  'SGD',          // Singapore Dollar
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames', 'units'];
